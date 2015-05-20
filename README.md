@@ -1,6 +1,6 @@
-# The-Little-Mongodb-Book-pdf&epub
+# The-Little-MongoDB-Book-pdf&epub
 
-The Little Mongodb Book PDF and epub
+The Little MongoDB Book PDF and epub
 
 Source Repo: https://github.com/karlseguin/the-little-mongodb-book
 
